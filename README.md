@@ -17,8 +17,10 @@ Required API with respect to testcase.
 
 git clone https://github.com/username/repository-name.git
 
-**Run Tests: **Import the project into your IDE and run the test cases.
+**Run Tests:** Import the project into your IDE and run the test cases.
 
-**Modify and Extend: **Feel free to modify the test cases to suit your application needs or add new cases that may benefit other developers.
-Contributing
+**Modify and Extend :** Feel free to modify the test cases to suit your application needs or add new cases that may benefit other developers.
+
+**Contributing**
+
 Contributions are welcome! If you have test cases or improvements to share, please fork the repository, create a feature branch, and submit a pull request. Make sure to document any new test cases clearly and follow the coding conventions used in this repository.
